@@ -1,4 +1,4 @@
-const { faGrinTongue } = require("@fortawesome/free-solid-svg-icons")
+
 
 class Usuario {
     constructor (name , surname, books , pets ) {
